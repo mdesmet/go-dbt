@@ -1,0 +1,7 @@
+.history
+.vscode
+models
+target
+logs
+dbt_project.yml
+profiles.yml
